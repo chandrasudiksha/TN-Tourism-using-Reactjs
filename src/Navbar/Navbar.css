@@ -1,0 +1,74 @@
+.nav-bar {
+    background: transparent;
+    display: flex;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    z-index: 1;
+    padding: 10px 0;
+    margin-top: 20px;
+}
+
+.Nav {
+    display: flex;
+    list-style: none;
+    margin-left: auto;
+    margin-right: 50px;
+    align-items: center;
+}
+
+.logo {
+    margin-left: 50px;
+    font-size: 24px;
+    color: white;
+}
+
+.Nav li {
+    margin-left: 30px;
+}
+
+.Nav a, .Nav select {
+    font-size: 20px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    background: transparent;
+    border: none;
+    cursor: pointer;
+}
+
+.nav-select {
+    appearance: none;
+    background-color: transparent;
+    color: white;
+    border: none;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 5px;
+    cursor: pointer;
+    width: 50px;
+}
+
+.nav-select option {
+    background-color: #333;
+    color: white;
+}
+
+.Nav button {
+    padding: 10px 20px;
+    font-weight: bold;
+    color: white;
+    background-color: #28a745; /* Green background for login */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.Nav button:hover {
+    background-color: #218838; /* Darker green on hover */
+}
+
+.Nav a:hover, .Nav select:hover {
+    color: #ccc; /* Lighter text on hover */
+}

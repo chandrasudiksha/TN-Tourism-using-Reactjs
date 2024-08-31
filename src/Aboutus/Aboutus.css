@@ -1,0 +1,80 @@
+
+.body1{
+    background-color: rgb(237, 237, 255);
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+}
+.body1 h1{
+    text-align: center;
+    font-size: 50px;    
+    margin-bottom: 10px;
+}
+
+.body1 h3{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.body1 .img{
+    display: flex;
+}
+.body1 .img img{
+    margin-left: 130px;
+    border-radius: 6px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.body1 .con{
+    background-color: rgb(190, 187, 182);
+    padding:15px;
+}
+.body1 .t1{
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.body1 .con img{
+    border-radius: 6px;
+}
+.body1 h4{
+    text-align: center;
+}
+.transport{
+    margin-top: 20px;
+    margin: 0 50px;
+    }
+.con{
+    display: flex;
+    border-radius: 5px;
+}
+.book{
+    display: flex;
+    margin-top: 20px;
+    padding: 10px 0;
+    background-color: rgb(235, 210, 101);
+    border-radius: 10px;
+    margin-bottom: 40px;
+    margin: 0 50px;
+}
+.body1 .btn{
+    padding: 10px 20px;
+    width: 150px;
+    font-weight: 700;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-left: 350px;
+}
+.aboutbook{
+    margin-left: 50px;
+}
+.body1 .btn:hover{
+    background-color: rgb(248, 184, 100);
+}
+.body1 .text{
+    
+    margin-bottom: 20px;
+}
+.body1 p{
+    margin: 0 50px;
+}
