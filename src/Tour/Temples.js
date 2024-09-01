@@ -42,114 +42,115 @@ function Temples() {
             <div
               className="item"
               style={{
-                backgroundImage: 'url(https://e1.pxfuel.com/desktop-wallpaper/547/443/desktop-wallpaper-21-rameshwaram-rameswaram-thumbnail.jpg)',
+                backgroundImage: 'url(https://www.savaari.com/blog/wp-content/uploads/2024/01/rameswaram-temple-1656167436_f2c551193bb7d4bc6f70-1-1.webp)',
               }}
             >
               <div className="content">
-                <div className="name">KODAIKANAL</div>
+                <div className="name">Rameshwaram</div>
                 <div className="des">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum maxime velit tempora accusantium iste reprehenderit! Sunt quibusdam dolor odio.
                 </div>
                 <p><b>Must Visit</b></p>
                 <ul className='list'>
-                    <li>Guna Cave</li>
-                    <li>Silent Valley View Point</li>
-                    <li>Kodaikanal Lake</li>
+                    <li>Gandhamadhana Parvatham</li>
+                    <li>Hanuman Temple</li>
+                    <li>Dr. A.P.J. Abdul Kalam Memorial</li>
+                    <li>Agnitheertham</li>
                 </ul>
               </div>
             </div>
             <div
               className="item"
               style={{
-                backgroundImage: 'url(https://t3.ftcdn.net/jpg/04/16/66/30/360_F_416663024_MDoibghS8s4oxHea0PjRezhDJy17RtPd.jpg)',
+                backgroundImage: 'url(https://t3.ftcdn.net/jpg/03/72/28/54/360_F_372285492_u9rq4L6pl3FgUoTRT59kbWh4fFYdoh3Z.jpg)',
               }}
             >
               <div className="content">
-                <div className="name">OOTY</div>
+                <div className="name">Thiruvanamalai</div>
                 <div className="des">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum maxime velit tempora accusantium iste reprehenderit! Sunt quibusdam dolor odio.
                 </div>
                 <p><b>Must Visit</b></p>
                 <ul className='list'>
-                    <li>Doddabetta Peak</li>
-                    <li>Pykara Lake</li>
-                    <li>Pine Tree Forest</li>
+                    <li>Gingee Fort</li>
+                    <li>Sathanur Dam</li>
+                    <li>Sri Ramana Ashram</li>
                 </ul>
               </div>
             </div>
             <div
               className="item"
               style={{
-                backgroundImage: 'url(https://i.ibb.co/NSwVv8D/img3.jpg)',
+                backgroundImage: 'url(https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/meenakshi-amman-temple-1656170467_cfebe78d69f069f881aa.webp)',
               }}
             >
               <div className="content">
-                <div className="name">MUNNAR</div>
+                <div className="name">Meenachi Amman Temple</div>
                 <div className="des">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum maxime velit tempora accusantium iste reprehenderit! Sunt quibusdam dolor odio.
                 </div>
                 <p><b>Must Visit</b></p>
                 <ul className='list'>
-                    <li>Mattupetty Dam</li>
-                    <li>Anamudi Peak</li>
-                    <li>Kundala Dam Lake</li>
+                    <li>Thirumalai Nayakkar Palace</li>
+                    <li>Gandhi Memorial Museum</li>
+                    <li>Arulmigu Koodal Azhagar Temple</li>
+                    <li>Samanar Jain Hills, Keelakuyilkudi</li>
                 </ul>
               </div>
             </div>
             <div
               className="item"
               style={{
-                backgroundImage: 'url(https://i.ibb.co/Bq4Q0M8/img4.jpg)',
+                backgroundImage: 'url(https://t4.ftcdn.net/jpg/00/84/76/89/360_F_84768999_pj2ZS8BULh1Q4XuAHGrUR1MM9PdFknJP.jpg)',
               }}
             >
               <div className="content">
-                <div className="name">COONOOR</div>
+                <div className="name">Thanjavur</div>
                 <div className="des">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum maxime velit tempora accusantium iste reprehenderit! Sunt quibusdam dolor odio.
                 </div>
                 <p><b>Must Visit</b></p>
                 <ul className='list'>
-                    <li>Wellington Lake</li>
-                    <li>Lamb's Rock</li>
-                    <li>Tiger Hill Cemetery</li>
+                    <li>Thanjavur Palace</li>
+                    <li>Saraswathi Mahal Library</li>
+                    <li>Schwartz Church</li>
                 </ul>
               </div>
             </div>
             <div
               className="item"
               style={{
-                backgroundImage: 'url(https://i.pinimg.com/736x/f6/64/8e/f6648e4cfe240078699cde4bc0826955.jpg)',
+                backgroundImage: 'url(https://i0.wp.com/traveldiaryparnashree.com/wp-content/uploads/2019/06/Sri-Ranganathaswamy-Temple-Cover.jpg?resize=745%2C600&ssl=1)',
               }}
             >
               <div className="content">
-                <div className="name">WAYANAD</div>
+                <div className="name">Sri Ranganathaswamy Temple</div>
                 <div className="des">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum maxime velit tempora accusantium iste reprehenderit! Sunt quibusdam dolor odio.
                 </div>
                 <p><b>Must Visit</b></p>
                 <ul className='list'>
-                    <li>Banasura Sagar Dam</li>
-                    <li>Chembra Peak</li>
-                    <li>Pookot Lake</li>
+                    <li>Rockfort Temple</li>
+                    <li>Jambukeswarar Temple</li>
                 </ul>
               </div>
             </div>
             <div
               className="item"
               style={{
-                backgroundImage: 'url(https://i.ibb.co/RNkk6L0/img6.jpg)',
+                backgroundImage: 'url(https://tamilnadutourisminfo.com/wp-content/uploads/2019/07/Tiruchendur-Subramani-Swamy-Temple.jpg)',
               }}
             >
               <div className="content">
-                <div className="name">Yercaud</div>
+                <div className="name">Thiruchendur</div>
                 <div className="des">
                   Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde dolorum maxime velit tempora accusantium iste reprehenderit! Sunt quibusdam dolor odio.
                 </div>
                 <p><b>Must Visit</b></p>
                 <ul className='list'>
-                    <li>Pagoda Dam</li>
-                    <li>Botanical Garden</li>
-                    <li>Monfort School</li>
+                    <li>Courtallam</li>
+                    <li>Uvari</li>
+                    <li>Kayalpattinam</li>
                 </ul>
               </div>
             </div>

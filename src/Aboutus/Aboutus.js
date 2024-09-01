@@ -7,7 +7,7 @@ export default function Aboutus(){
         
         <Navbar/>
         <div className="body1">
-    .   <h1>Vanakkam!!</h1>
+       <h1>Vanakkam!!</h1>
         <p>Welcome to Tamil Nadu Travel Tourism! We are your gateway to exploring the rich cultural heritage, vibrant traditions, and stunning landscapes of Tamil Nadu, one of India's most enchanting states. From the majestic temples of Madurai and Thanjavur to the serene beaches of Rameswaram and Kanyakumari, Tamil Nadu offers a unique blend of history, spirituality, and natural beauty.</p>
         <div className="img">
         <img src="https://ttdconline.com/_next/about-us-image-16ad7.png" style={{height:"180px",width:"250px"}}></img>

@@ -7,7 +7,7 @@ import Aboutus from './Aboutus/Aboutus';
 import Hills from './Tour/Hills';
 import Beach from './Tour/Beach'
 import Temples from './Tour/Temples'
-import Navbar from './Navbar/Navbar'
+import Contact from './Contact/Contact';
 import Home from './Home/Home';
 function App() {
   return (
@@ -21,6 +21,7 @@ function App() {
       <Route path="/Aboutus" element={<Aboutus/>}/>
       <Route path="/Hills" element={<Hills/>}/>
       <Route path="/Beach" element={<Beach/>}/>
+      <Route path="/Contact" element={<Contact/>}/>
       <Route path="*" element={<Navigate to="/"/>}/>
       </Routes>
     </BrowserRouter>

@@ -4,18 +4,18 @@ import "react-alice-carousel/lib/alice-carousel.css";
 import "./Home.css";
 import Navbar from "../Navbar/Navbar";
 
-export default function Home() {
+export default function Home() 
+{
   return (
     <div className="home-container">
-        <Navbar/>
+      <Navbar/>
       <AliceCarousel
         autoPlay
-        autoPlayInterval={2000} // 10 seconds interval
+        autoPlayInterval={2000} 
         infinite
         disableButtonsControls
         disableDotsControls
       >
-        
         <div className="carousel-item">
           <img
             src="https://www.tamilnadutourism.tn.gov.in/img/pages/large-desktop/beaches-1655142505_b9ec45ac713c2c52cd64.webp"
@@ -25,7 +25,6 @@ export default function Home() {
           <div className="carousel-text">
             <h2>Beaches of Tamil Nadu</h2>
             <p>Relax by the pristine waters and golden sands.</p>
-            
           </div>
         </div>
         <div className="carousel-item">
@@ -51,7 +50,6 @@ export default function Home() {
           </div>
         </div>
       </AliceCarousel>
-      
     </div>
   );
 }

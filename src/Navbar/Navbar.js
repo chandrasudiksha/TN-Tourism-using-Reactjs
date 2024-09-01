@@ -27,7 +27,7 @@ function Navbar() {
               <option value="/Temples">Temples</option>
             </select>
           </li>
-          <li><a href="#">Contact Us</a></li>
+          <li><Link to="/Contact"><a>Contact Us</a></Link></li>
           <li><Link to="/Login"><button className="login-btn">Login</button></Link></li>
         </ul>
       </div>
